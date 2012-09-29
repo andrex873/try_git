@@ -7,5 +7,6 @@
 <body>
 	<h1>try git amendez
 	</h1>
+	<div>este cambio se hace en el propio github</div>
 </body>
 </html>
