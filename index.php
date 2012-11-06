@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Titulo de la pagina</h1>
+    <div class="local">Esta linea se agrega localmente</div>
 </body>
 </html>
