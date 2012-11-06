@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Titulo de la pagina</h1>
+	<div class="remoto">modificacion remotamente</div>
 </body>
 </html>
