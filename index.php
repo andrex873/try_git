@@ -7,5 +7,6 @@
 <body>
 	<h1>Titulo de la pagina</h1>
     <div class="local">Esta linea se agrega localmente</div>
+	<div class="remoto">modificacion remotamente</div>
 </body>
 </html>
